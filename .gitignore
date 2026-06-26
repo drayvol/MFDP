@@ -52,9 +52,8 @@ logs/
 *.db
 
 # ML / Data
-data/
-datasets/
-*.csv
+
+
 *.parquet
 *.pkl
 *.pickle
