@@ -115,7 +115,7 @@ Golden Set содержит экспертно размеченные решен
 
 В качестве основной метрики использовался Character Error Rate (CER).
 
-![](/lesson 4/ocr-benchmark/reports/ocr_models_comparison.png)
+![](/lesson%204/ocr-benchmark/reports/ocr_models_comparison.png)
 
 По результатам эксперимента получены следующие значения.
 
@@ -142,7 +142,7 @@ Golden Set содержит экспертно размеченные решен
 
 Ниже представлены лучшие и худшие примеры распознавания модели pix2tex.
 
-![](lesson 4/ocr-benchmark/reports/pix2tex_best_worst.png)
+![](lesson%204/ocr-benchmark/reports/pix2tex_best_worst.png)
 
 Можно заметить, что модель плохо работает с большинством рукописных выражений и нередко полностью теряет структуру математической записи.
 
@@ -150,7 +150,7 @@ Golden Set содержит экспертно размеченные решен
 
 Аналогичный анализ выполнен для модели Texify.
 
-![](lesson 4/ocr-benchmark/reports/Texify_best_worst.png)
+![](lesson%204/ocr-benchmark/reports/Texify_best_worst.png)
 
 Texify демонстрирует значительно более высокое качество распознавания по сравнению с pix2tex, однако также испытывает трудности со сложными рукописными символами.
 
